@@ -30,6 +30,13 @@ a {
   font-weight: 400;
   line-height: normal;
 }
+.header__link:hover {
+  color: orange;
+  scale: 1.1;
+}
+.header__link:active {
+  color: #6c63ff;
+}
 .top {
   padding-top: 64px;
   padding-bottom: 84px;
